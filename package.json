@@ -10,9 +10,10 @@
   "dependencies": {
     "@react-native-community/async-storage": "^1.11.0",
     "@tensorflow-models/coco-ssd": "^2.1.0",
+    "@tensorflow-models/handpose": "0.0.7",
     "@tensorflow-models/mobilenet": "^2.0.4",
-    "@tensorflow/tfjs": "^2.0.1",
-    "@tensorflow/tfjs-react-native": "^0.3.0",
+    "@tensorflow/tfjs": "^3.5.0",
+    "@tensorflow/tfjs-react-native": "^0.5.0",
     "expo": "~38.0.8",
     "expo-barcode-scanner": "~8.2.1",
     "expo-camera": "~8.3.1",
